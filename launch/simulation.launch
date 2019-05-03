@@ -29,7 +29,7 @@ THE SOFTWARE.
 
     <!-- sengi simulator -->
     <node pkg="upboard_ros" type="led_node" name="led_node" />
-    <node pkg="sengi_ros" type="sengi_up_sim" name="sengi_up_sim" />
+    <node pkg="upbot_ros" type="sengi_up_sim" name="sengi_up_sim" />
 
     <!-- enable more cmd_vel publishers (e.g. joy and move_base) -->
     <include file="$(find erwhi_control)/launch/twist_mux.launch" />

@@ -1,4 +1,10 @@
 # upbot_ros
+## Setup
+In order to run this package you need:
+- [erwhi-hedgehog-ros](https://github.com/gbr1/erwhi-hedgehog-ros) package
+- [sengi_ros](https://github.com/gbr1/sengi_ros) package
+- [upboard_ros](https://github.com/gbr1/upboard_ros) package
+- [realsense](https://github.com/intel-ros/realsense) package
 
 ## How to use
 To emulate Sengi:<br>
@@ -12,5 +18,7 @@ To try Intel Realsense and RTABmap:<br>
 
 <br>
 <br>
+
+
 
 ***Copyright (c) 2019 Giovanni di Dio Bruno under MIT license.***
