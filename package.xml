@@ -45,15 +45,12 @@ THE SOFTWARE.
   <exec_depend>erwhi_description</exec_depend>
   <build_depend>realsense2_camera</build_depend>
   <build_depend>erwhi_control</build_depend>
-  <build_depend>upboard_ros</build_depend>
   <build_depend>joint_state_publisher</build_depend>
   <build_export_depend>realsense2_camera</build_export_depend>
   <build_export_depend>erwhi_control</build_export_depend>
-  <build_export_depend>upboard_ros</build_export_depend>
   <build_export_depend>joint_state_publisher</build_export_depend>
   <exec_depend>realsense2_camera</exec_depend>
   <exec_depend>erwhi_control</exec_depend>
-  <exec_depend>upboard_ros</exec_depend>
   <exec_depend>joint_state_publisher</exec_depend>
   <exec_depend>rtabmap</exec_depend>
   <exec_depend>rtabmap_ros</exec_depend>
